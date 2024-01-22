@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on like 20 projects, all at the pace of a crippled snail.
+- 🌱 I’m currently learning C# & .NET(dotnet) development.
+- 💬 Ask me about anything, really.
+- 📫 Reach me on @Discord: selenotrope. 
+- 😄 Pronouns: She/They
+- ⚡ Fun fact: Crime is a product of a society that's failed its people.
